@@ -41,7 +41,7 @@ I built this to demonstrate end-to-end project and product thinking — scoping 
 ## 📈 Show Me the Results
 
 - 📄 **[Full Report (PDF)](./Slatepencils_Obsession_Report.pdf)** — Executive summary, methodology, SWOT, and strategic recommendations
-- 📊 **[Interactive Dashboard (HTML)]([https://Maddened-Elephant.github.io/slatepencils-market-analysis/slatepencils_dashboard.html])** — Explore the data yourself, no software needed *(live link via GitHub Pages — update once enabled)*
+- 📊 **[Interactive Dashboard (HTML)](https://Maddened-Elephant.github.io/Slatepencils-Obsession/slatepencils_dashboard.html])** — Explore the data yourself, no software needed *(live link via GitHub Pages — update once enabled)*
 - 📈 **[Raw Data Workbook (Excel)](./slatepencils_data.xlsx)** — The full dataset behind every chart, ready for Power BI/Tableau import
 
 ---
